@@ -1,7 +1,14 @@
 # AI Co-Worker NPC Engine
  
 > Enterprise AI Co-Worker Engine — Luxury Workplace Simulation Case Study
- 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-0.111-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/LangGraph-StateGraph-orange?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%2F%20Hexagonal-success?style=flat-square" alt="Architecture"/>
+  <img src="https://img.shields.io/badge/Tests-13%20Passed%20(100%25)-brightgreen?style=flat-square" alt="Tests"/>
+  <img src="https://img.shields.io/badge/LLM-Gemini%202.5%20%7C%20GPT--4o--mini-blueviolet?style=flat-square" alt="LLM"/>
+</p>
 An AI engine that powers virtual co-workers (NPCs) inside interactive workplace simulations.
 Each NPC has a distinct **persona**, **memory**, **emotion state**, and **business function** —
 enabling learners to practice real-world workplace collaboration.
